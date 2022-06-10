@@ -1,0 +1,27 @@
+{
+  "name": "prismadb-2",
+  "version": "1.0.0",
+  "description": "PrismaDB repository for client server practice 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HectorGbravo/PrismaDB-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HectorGbravo/PrismaDB-2/issues"
+  },
+  "homepage": "https://github.com/HectorGbravo/PrismaDB-2#readme",
+  "devDependencies": {
+    "express": "^4.18.1",
+    "prisma": "^3.15.1"
+  },
+  "dependencies": {
+    "@prisma/client": "^3.15.1",
+    "cors": "^2.8.5"
+  }
+}
